@@ -1,0 +1,48 @@
+@media (min-width:320px) and (max-width:768px){
+    main{
+        width: 100%;
+    }
+    .title{
+        font-size: 2em !important;
+    }
+    .stitle{
+        font-size: 0.6em !important;
+    }
+    .hrtitle{
+        width: 80%;
+    }
+    .formatage_grille{
+        grid-template-columns: 1fr;
+    }
+    .magna_centrage h1{
+        font-size: 1em;
+    }
+    .magna_centrage_txt{
+        font-size: 0.8em;
+        width: 200px;
+    }
+    .sectiontitre{
+        font-size: 1em;
+    }
+    .sectionpara{
+        font-size: 0.8em;
+    }
+    .botitem{
+        align-items: center;
+        flex-direction: column;
+        margin: 0px !important;
+        width: 100%;
+    }
+    .itemsocial{
+        margin: 10px;
+    }
+    .sectionfond{
+        margin: 20px 0px !important;
+    }
+    .botbot{
+        margin: 10px 0px;
+        text-align: center;
+        font-size: 0.7rem;
+        width: 60%;
+    }
+}
